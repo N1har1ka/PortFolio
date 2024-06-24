@@ -16,7 +16,7 @@ h1{
 .div1{
     height: 250px;
     width: 250px;
-    background-image: url(my.jpg);
+    background-image: url(./image/my.jpg);
     background-color: palevioletred;
     border: 2px solid black;
     position: absolute;
